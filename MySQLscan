@@ -1,4 +1,0 @@
-# Nmap 7.95 scan initiated Thu Mar  6 21:14:39 2025 as: /usr/lib/nmap/nmap --privileged -sT -p 3306 -oG MySQLscan 127.0.0.1
-Host: 127.0.0.1 (localhost)	Status: Up
-Host: 127.0.0.1 (localhost)	Ports: 3306/open/tcp//mysql///
-# Nmap done at Thu Mar  6 21:14:39 2025 -- 1 IP address (1 host up) scanned in 0.02 seconds
